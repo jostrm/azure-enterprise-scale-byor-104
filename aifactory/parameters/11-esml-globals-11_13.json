@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "technicalContactId": {
+            "value": "4dd75919-56b3-4e7e-a265-dc96f9cd4a58"
+        },
+        "technicalContactEmail": {
+            "value": "jostrm@microsoft.com"
+        }
+    }
+}
